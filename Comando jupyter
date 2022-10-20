@@ -1,0 +1,3 @@
+cd jupyter
+source jup_notebook/bin/activate
+#jupyter lab o jupyter notebook
