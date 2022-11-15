@@ -1,3 +1,8 @@
 cd jupyter
 source jup_notebook/bin/activate
 #jupyter lab o jupyter notebook
+
+
+
+#script para correr plantcv-train.py
+python3 plantcv-train.py naive_bayes_multiclass --file pixeles_tizon_imagej.txt --outfile ./img/naive_bayes_pdfs.txt --plots
