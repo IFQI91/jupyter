@@ -6,5 +6,6 @@ dependencies:
   - matplotlib
   - pandas
   - pip
+  - opencv-python<4
   - pip:
-    - plantcv
+    - plantcv==3.12.1
