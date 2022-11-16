@@ -7,3 +7,7 @@ dependencies:
   - pandas
   - plantcv
   - opencv
+  - pip
+  - pip:
+    - plantcv
+    - opencv-python
